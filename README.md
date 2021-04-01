@@ -13,7 +13,7 @@
 
 - 📫 Pode entrar em contato comigo **douglasbeng@gmail.com**
 
-- ⚡ Fato curioso **Sou músico, contrabaixista**
+- 🎸 Apaixonado por música **Sou músico, contrabaixista**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
