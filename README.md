@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente trabalho no time de qualidade do Sicredi **Migração Novo Core**
 
-- 🌱 Atualmente estou estudando: **ReactNative, ReactJS**
+- 🌱 Atualmente estou estudando: **Kotlin** (Mas sempre de olho nas tecnologias utilizadas em mobile em geral)
 
 - 💬 Pergunte-me sobre **Desenvolvimento nativo android, games, engenharia ou qualquer coisa, vamos conversar**
 
