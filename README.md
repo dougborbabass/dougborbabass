@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o Douglas</h1>
-<h3 align="center">Um engenheiro eletricista mestrando em sistemas de computação apaixonado por desenvolvimento de software</h3>
+<h3 align="center">Mestre em engenharia elétrica pela PUCRS, com ênfase em sistemas de computação apaixonado por desenvolvimento de software</h3>
 
 </a> </p>
 
