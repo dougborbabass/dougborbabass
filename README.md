@@ -3,7 +3,7 @@
 
 </a> </p>
 
-- 🔭 Atualmente trabalho no time de qualidade do Sicredi **Migração Novo Core**
+- 🔭 Atualmente trabalho no time de desenvolvimento da Valemobi, atuando no app da Ágora corretora
 
 - 🌱 Atualmente estou estudando: **Kotlin** (Mas sempre de olho nas tecnologias utilizadas em mobile em geral)
 
