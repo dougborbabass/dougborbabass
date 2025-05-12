@@ -3,7 +3,7 @@
 
 </a> </p>
 
-- 🔭 Atualmente trabalho no time de desenvolvimento da Valemobi, atuando no app da Ágora corretora
+- 🔭 Atualmente trabalho no time de desenvolvimento da Compasso, atuando no app da Natura
 
 - 🌱 Atualmente estou estudando: **Kotlin** (Mas sempre de olho nas tecnologias utilizadas em mobile em geral)
 
